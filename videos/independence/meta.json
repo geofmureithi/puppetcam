@@ -1,0 +1,19 @@
+[
+  {
+    "date": "1847-July-26",
+    "country": "Liberia",
+    "type": "independence",
+    "meta": {
+      "winners": "Liberian Declaration of Independence",
+      "leader": {
+        "name": "Joseph Jenkins Roberts",
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Joseph_Jenkins_Roberts.jpg"
+      },
+      "video": {
+        "link": "https://www.youtube.com/watch?v=MMWptmhjZtg",
+        "start": "0:33",
+        "end": "1:00"
+      }
+    }
+  }
+]
